@@ -1,0 +1,4 @@
+480px para celular
+768px para tablet
+1148px laptop
+1440px television 
